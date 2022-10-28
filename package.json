@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "private": true,
+  "engines": {
+    "node": "16.18.0",
+    "pnpm": "7.14.0"
+  },
+  "engine-strict": true,
+  "scripts": {
+
+  },
+  "keywords": [],
+  "optionalDependencies": {
+    "node-mac-permissions": "2.2.1"
+  }
+}
